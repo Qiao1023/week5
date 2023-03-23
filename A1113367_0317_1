@@ -1,7 +1,7 @@
 import java.util.*;
 public class A1113367_0317_1{
 
-	public static void main(String[] argv){
+   public static void main(String[] argv){
       
       Scanner sc = new Scanner(System.in);
 
@@ -22,5 +22,5 @@ public class A1113367_0317_1{
           System.out.println("");
           }
       }
-	}
+   }
 }
